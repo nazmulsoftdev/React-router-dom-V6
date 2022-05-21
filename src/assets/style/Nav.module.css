@@ -1,0 +1,25 @@
+.nav {
+    width: 100%;
+    padding: 15px 0px;
+    background-color: black;
+    position: sticky;
+}
+
+.nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav ul li {
+    display: inline;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #ffff;
+    padding: 0px 10px;
+}
+
+.navul li a:active {
+    color: green;
+}

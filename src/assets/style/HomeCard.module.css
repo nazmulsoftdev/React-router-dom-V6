@@ -1,0 +1,10 @@
+.HomeLessonCard {
+    width: 40%;
+    padding: 10px;
+    background-color: aqua;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
